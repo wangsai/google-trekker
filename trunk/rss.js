@@ -44,8 +44,8 @@ var RSS_DATE_REGEXP = /^(\d{2})\/(\d{2})\/(\d{2})$/;
 var GOOGLE_NEWS_URL_PREFIX = 'http://news.google.com/';
 var GOOGLE_NEWS_FEED_TITLE = 'Google News';
 
-// How often to refresh RSS feeds
-var RSS_REFRESH_INTERFAL = 6000;
+// How often to refresh RSS feeds - 30 minutes
+var RSS_REFRESH_INTERVAL = 1800000;
 
 // The current RSS URL being polled
 var RSS_currentFeed;
@@ -88,7 +88,7 @@ function RSS_start() {
   }
   
   // Kick off asynchronous RSS feed retrieval
-  view.setInterval(RSS_refresh, RSS_REFRESH_INTERFAL);
+  view.setInterval(RSS_refresh, RSS_REFRESH_INTERVAL);
   RSS_refresh();
 
   // No items yet, set the divs to invisible
