@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>Star Trek-Ticker</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>Zeigt die Sternzeit auf Ihrem Desktop an und hält Sie stets mit Star Trek-News auf dem Laufenden.</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>Google Gadget - Star Trek-Ticker
+Copyright 2007 Google. Zeigt die Sternzeit auf Ihrem Desktop an und hält Sie stets mit Star Trek-News auf dem Laufenden.
+
+Dieses Gadget gehört nicht der Paramount Pictures Corporation. Star Trek und zugehörige Komponenten sind Marken der Paramount Pictures Corporation.</ABOUT_TEXT>
+<MENU_DATE_TYPE>Sternzeit-Typ</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>Das nächste Jahrhundert (TNG)</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>Die Originalserie (TOS)</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>Problem anzeigen</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>Zeit anzeigen</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Google-Suche</MENU_GOOGLE_SEARCH>
+</strings>

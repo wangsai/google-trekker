@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>星艦奇航跑馬燈</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>在桌面上顯示星曆，讓您隨時掌握星艦迷專屬的最新消息。</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>Google 的「星艦奇航跑馬燈」小工具
+Copyright 2006 Google 在桌面上顯示星曆，讓您隨時掌握星艦迷專屬的最新消息。
+
+這個小工具與派拉蒙影片公司 (Paramount Pictures Corp) 沒有任何關係。  星艦奇航與其各種形式均為派拉蒙影片公司的商標。</ABOUT_TEXT>
+<MENU_DATE_TYPE>星曆類型</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>下一代</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>原始系列</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>顯示問題</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>顯示時間</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Google 搜尋</MENU_GOOGLE_SEARCH>
+</strings>

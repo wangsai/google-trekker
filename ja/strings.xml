@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>トレッカー向けニュース</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>デスクトップに StarDate を表示して、トレッカー向けの最新ニュースをチェックできます。</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>Google ガジェット トレッカー向けニュース
+Copyright 2006 Google デスクトップに StarDate を表示して、トレッカー向けの最新ニュースをチェックできます。
+
+このガジェットは Paramount Pictures Corp. とは何の関係もありません。  Star Trek およびその各種変化形は Paramount Pictures Corp. の商標です。</ABOUT_TEXT>
+<MENU_DATE_TYPE>StarDate の種類</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>新スタートレック</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>オリジナル シリーズ</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>問題を表示</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>時刻を表示</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Google 検索</MENU_GOOGLE_SEARCH>
+</strings>

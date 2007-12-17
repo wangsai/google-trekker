@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>스타트렉 팬을 위한 시계</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>바탕화면에 스타데이트를 표시하고 스타트렉 팬을 위한 최신 뉴스를 받아보세요.</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>스타트렉 팬을 위한 시계
+Copyright 2006 Google. 바탕화면에 스타데이트를 표시하고 스타트렉 팬들을 위한 최신 뉴스를 받아보세요.
+
+이 가젯은 Paramount Pictures Corp와 아무 관련이 없습니다. Star Trek 및 관련 상표는 Paramount Pictures Corp의 상표입니다.</ABOUT_TEXT>
+<MENU_DATE_TYPE>스타데이트(스타트렉 연력) 형식</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>차세대</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>오리지널 시리즈</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>문제 표시</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>시간 표시</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Google 검색</MENU_GOOGLE_SEARCH>
+</strings>
