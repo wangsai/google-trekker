@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>Ticker voor fans van Star Trek</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>Hiermee wordt de sterrendatum op uw bureaublad weergegeven en blijft u op de hoogte van nieuws voor Star Trek-fans.</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>Google-gadget Ticker voor fans van Star Trek
+Copyright 2006 Google Hiermee wordt de sterrendatum op uw bureaublad weergegeven en blijft u op de hoogte van nieuws voor Star Trek-fans.
+
+Deze gadget houdt op geen enkele manier verband met Paramount Pictures Corp.  Star Trek en alle verschillende vormen daarvan zijn handelsmerken van Paramount Pictures Corp.</ABOUT_TEXT>
+<MENU_DATE_TYPE>Type sterrendatum</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>The Next Generation</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>The Original Series</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>Probleem weergeven</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>Tijd weergeven</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Google Zoeken</MENU_GOOGLE_SEARCH>
+</strings>

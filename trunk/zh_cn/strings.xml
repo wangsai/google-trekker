@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>Ticker for Trekkers</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>在您的桌面上显示 StarDate，向您提供有关 Trek（星舰）迷的最新消息。</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>Google Ticker for Trekkers 小工具
+版权所有 2006 Google 在您的桌面上显示 StarDate，向您提供有关 Trek（星舰）迷的最新消息。
+
+该小工具与派拉蒙电影公司 (Paramount Pictures Corp.) 没有任何联属关系。Star Trek（星舰奇航）及其各种表现形式都是派拉蒙电影公司的商标。</ABOUT_TEXT>
+<MENU_DATE_TYPE>StarDate 类型</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>下一代</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>原始系列</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>显示问题</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>显示时间</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Google 搜索</MENU_GOOGLE_SEARCH>
+</strings>

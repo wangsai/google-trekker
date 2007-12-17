@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>Ticker para Trekkers</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>Mostra a Data Estelar em sua área de trabalho e as últimas notícias para os fãs de Star Trek.</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>Gadget Ticker para Trekkers do Google
+Copyright 2006 Google Mostra a Data Estelar em sua área de trabalho e as últimas notícias para os fãs de Star Trek.
+
+Esse gadget não possui nenhum tipo de afiliação com a Paramount Pictures Corp.  Star Trek e suas diferentes formas são marcas registradas da Paramount Pictures Corp.</ABOUT_TEXT>
+<MENU_DATE_TYPE>Tipo da data estelar</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>A próxima geração</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>A série original</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>Mostrar problema</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>Mostrar hora</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Pesquisa do Google</MENU_GOOGLE_SEARCH>
+</strings>

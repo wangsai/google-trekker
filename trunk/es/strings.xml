@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>Reloj para fans de Star Trek</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>Muestra la fecha “Star Trek” en tu escritorio y te mantiene al día con noticias para los fans de esta serie.</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>Gadget Reloj para fans de Star Trek de Google
+Copyright 2006 Google. Muestra la fecha “Star Trek” en tu escritorio y te mantiene al día con noticias para los fans de esta serie.
+
+Este gadget no está asociado de ningún modo a Paramount Pictures Corp.  Star Trek y sus variantes son marcas comerciales de Paramount Pictures Corp.</ABOUT_TEXT>
+<MENU_DATE_TYPE>Tipo de fecha estelar</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>La nueva generación</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>La serie original</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>Mostrar problema</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>Mostrar hora</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Búsqueda de Google</MENU_GOOGLE_SEARCH>
+</strings>

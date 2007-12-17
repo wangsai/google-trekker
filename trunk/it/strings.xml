@@ -1,0 +1,14 @@
+﻿<strings>
+<PLUGIN_NAME>Ticker di Star Trek</PLUGIN_NAME>
+<PLUGIN_DESCRIPTION>Indica la data stellare sul desktop e ti tiene aggiornato sulle novità di Star Trek.</PLUGIN_DESCRIPTION>
+<ABOUT_TEXT>Google Gadget Ticker di Star Trek
+Copyright 2006 Google. Indica la data stellare sul desktop e ti tiene aggiornato sulle novità di Star Trek.
+
+Questo gadget non è affiliato a Paramount Pictures Corp. Star Trek e le sue diverse forme sono marchi di Paramount Pictures Corp.</ABOUT_TEXT>
+<MENU_DATE_TYPE>Tipo di data stellare</MENU_DATE_TYPE>
+<DATE_TYPE_TNG>La nuova generazione</DATE_TYPE_TNG>
+<DATE_TYPE_TOS>Serie originale</DATE_TYPE_TOS>
+<MENU_WITH_ISSUE>Mostra il problema</MENU_WITH_ISSUE>
+<MENU_WITH_TIME>Mostra ora</MENU_WITH_TIME>
+<MENU_GOOGLE_SEARCH>Ricerca Google</MENU_GOOGLE_SEARCH>
+</strings>
